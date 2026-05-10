@@ -1,0 +1,14 @@
+generation:
+  max_passwords: 100000
+  enable_leetspeak: true
+  enable_keyboard_walks: true
+  aggressive_mode: false
+  threads: 1
+
+ranking:
+  prioritize_birth_years: true
+  prioritize_common_suffixes: true
+
+safety:
+  hard_max_passwords: 1000000
+  ethical_warning: true
